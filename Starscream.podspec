@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Starscream"
+  s.name         = "StarscreamV311"
   s.version      = "3.1.1"
   s.summary      = "A conforming WebSocket RFC 6455 client library in Swift."
   s.homepage     = "https://github.com/daltoniam/Starscream"
